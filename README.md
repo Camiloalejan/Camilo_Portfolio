@@ -3,9 +3,16 @@ Jr. Data Science Portfolio
 
 # DATA SCIENCE:
 ## [Project 1: Credit Card Fraud Detection](https://github.com/Camiloalejan/CreditCardFraudDetection_DataScienceProject)
+
 - Explored and analized a non-explicit dataset.
+
+![_figure 2: Amounts_](https://github.com/Camiloalejan/CreditCardFraudDetection_DataScienceProject/blob/main/images/amounts.png)
+
 - Compared the accuracy of two classification models (KNN , Random Forest)
 - Analized metrics to evaluate performance
+
+![_figure 3: Confusion Matrix_](https://github.com/Camiloalejan/CreditCardFraudDetection_DataScienceProject/blob/main/images/confusion%20matrix.png)
+
 - Optimized Random Forest training
 
 ![_figure 4: ROC_](https://github.com/Camiloalejan/CreditCardFraudDetection_DataScienceProject/blob/main/images/ROC.png)
