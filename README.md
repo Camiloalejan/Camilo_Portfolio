@@ -76,3 +76,5 @@ Jr. Data Science Portfolio
 # [SQL Server Queries](https://github.com/Camiloalejan/SQL-Portfolio)
 - COVID Query Project
 - Activies done during certification as Data Analyst
+
+theme: cayman
