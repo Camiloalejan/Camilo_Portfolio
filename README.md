@@ -16,7 +16,7 @@ Jr. Data Science Portfolio
 
 ![_figure 4: ROC_](/images/ROC.png)
 
-## [Project 2: Credit Card Fraud Detection](https://github.com/Camiloalejan/CreditCardFraudDetection_DataScienceProject)
+## [Project 2: Credit Card Fraud Detection](https://github.com/Camiloalejan/PKDD99_ClasificadorDeClientes_DataScience_Project)
 - Data extraction and cleaning. In addition, creation of tables with relevant information, which were joined from the original tables of the cleaned database.
 - Exploration of data in order to perform an analysis that details the information in each table. Visualizations were used to contemplate customer behavior from their data, helping me to draw conclusions and form profiles of each user according to their status.
 - Training Machine Learning models to classify customers based on their status according to the economic loans received from the bank, and predict which customers will successfully complete their payments and which will become debtors.
