@@ -10,12 +10,18 @@ Jr. Data Science Portfolio
 - Compared the accuracy of two classification models (KNN , Random Forest)
 - Analized metrics to evaluate performance
 
-![_figure 3: Confusion Matrix_](/images/confusion%20matrix.png)
+![_figure 3: Confusion Matrix_](/images/cm.png)
 
 - Optimized Random Forest training
 
 ![_figure 4: ROC_](/images/ROC.png)
 
+## [Project 2: Credit Card Fraud Detection](https://github.com/Camiloalejan/CreditCardFraudDetection_DataScienceProject)
+- Data extraction and cleaning. In addition, creation of tables with relevant information, which were joined from the original tables of the cleaned database.
+- Exploration of data in order to perform an analysis that details the information in each table. Visualizations were used to contemplate customer behavior from their data, helping me to draw conclusions and form profiles of each user according to their status.
+- Training Machine Learning models to classify customers based on their status according to the economic loans received from the bank, and predict which customers will successfully complete their payments and which will become debtors.
+
+![_confusion matrix_](/images/confusion%20matrix.png)
 
 # NEURAL NETWORKS:
 ## [Project 1: ADALINE - Algorithm](https://github.com/Camiloalejan/ADALINE-Algorithm-and-Practical-Examples)
