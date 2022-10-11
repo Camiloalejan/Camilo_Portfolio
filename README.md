@@ -24,6 +24,11 @@
 
 ![_confusion matrix_](/images/confusion%20matrix.png)
 
+## [Project 3: EDA and Clustering](https://github.com/Camiloalejan/Analysis_and_Clustering_DataScience_Project/tree/main)
+The following document shows the data of a (seemingly) office supply company. An EDA was made in order to analyse the features of the dataset by using visualizations such as: histograms, time series, bar charts and tables. The modelling part includes a clustering model, using the "Elbow Method" and decomposing the components with the PCA functions.
+
+![_Clustering_](/images/Agrupación.png)
+
 # NEURAL NETWORKS:
 ## [Project 1: ADALINE - Algorithm](https://github.com/Camiloalejan/ADALINE-Algorithm-and-Practical-Examples)
 - Adaline Algorithm in it's stochasthic, mini badges and badges form. This one is just an example of how Adaline works and 3 different ways to work with it.
